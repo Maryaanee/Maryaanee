@@ -1,46 +1,47 @@
-<h1 align="center">Olá, eu sou Mariane! 👋</h1>
+# Olá, eu sou a Mariane 🎀
 
-<p align="center">
-  Aluna do IFCE
-  Apaixonado(a) por transformar ideias em código.
-</p>
-
----
-
-### 💻 Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias e linguagens com as quais eu estou aprendendo:
-
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+Sou estudante do **Instituto Federal**, cursando **Informática - Ensino Médio Integrado**.
+Atualmente estou na **turma S4**
+Estou estudando **desenvolvimento de software, programação com aprendizado contínuo**.
 
 ---
 
-### 🚀 O que estou fazendo
+## 💻 Tecnologias & Ferramentas
 
-- 🔭 Atualmente trabalhando em POO.
-- 🌱 Aprendendo [Nova Tecnologia, Framework, etc.].
-- 💬 Pergunte-me sobre [Sua Especialidade ou Projeto Favorito].
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="HTML logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="Java logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" width="50" alt="Eclipse IDE logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="VSCode logo" />  
+
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🎯 Habilidades
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[Seu-Nome-de-Usuário]&show_icons=true&theme=radical)
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[Seu-Nome-de-Usuário]&layout=compact&theme=radical)
+- aprendendo programação em **Java, Python e HTML**  
+- Aqui estão meus **projetos escolares e acadêmicos**  
+- Interesse em **crescimento profissional na área de tecnologia**  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Seu-Nome-de-Usuário]&label=Visualizações&color=green&style=flat" alt="Número de visualizações no perfil" />
-</p>
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=maryaanee&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryaanee&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Contato
+
+- GitHub: [@Francisca Mariane Sousa da Silva](https://github.com/maryaanee)  
+- Email escolar: sa.mariane08@aluno.ifce.edu.br
+
+---
+
+> "Tudo posso naquele que me fortalece." – **Filipenses 4:13** ✨
