@@ -45,3 +45,5 @@ Estou estudando **desenvolvimento de software e programação, com aprendizado c
 ---
 
 > "Tudo posso naquele que me fortalece." – **Filipenses 4:13** ✨
+
+<img src="https://cdn.discordapp.com/attachments/1399707078360174643/1410041621239693402/image0.gif?ex=68af9317&is=68ae4197&hm=4c790b4bdddbd99f349bd832d8539e4201d295ae0752ed69133baa537cba62ba&" alt="banner delicado de sakuras" width="100%" />
