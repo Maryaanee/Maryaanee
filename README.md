@@ -1,8 +1,8 @@
 # Olá, eu sou a Mariane 🎀
 
 Sou estudante do **Instituto Federal**, cursando **Informática - Ensino Médio Integrado**.
-Atualmente estou na **turma S4**
-Estou estudando **desenvolvimento de software, programação com aprendizado contínuo**.
+Atualmente estou na **turma S4**.
+Estou estudando **desenvolvimento de software e programação, com aprendizado contínuo**.
 
 ---
 
@@ -20,7 +20,7 @@ Estou estudando **desenvolvimento de software, programação com aprendizado con
 
 ---
 
-## 🎯 Habilidades
+## 👾 Sobre
 
 - aprendendo programação em **Java, Python e HTML**  
 - Aqui estão meus **projetos escolares e acadêmicos**  
