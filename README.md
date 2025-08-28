@@ -22,7 +22,8 @@ Estou estudando **desenvolvimento de software e programação, com aprendizado c
 
 ## 👾 Sobre
 
-- aprendendo programação em **Java, Python e HTML**  
+- aprendendo programação em **Java, Python e HTML**
+- EclipseIDE, VScode, Mysql
 - Aqui estão meus **projetos escolares e acadêmicos**  
 - Interesse em **crescimento profissional na área de tecnologia**  
 
